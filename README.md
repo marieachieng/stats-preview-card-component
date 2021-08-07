@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/marieachieng/stats-preview-card-component.git)
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://mary-stats-preview-card.netlify.app/)
 
 ## My process
 
